@@ -25,7 +25,7 @@ Mezuri es una aplicación para llevar el seguimiento de la glucosa, desarrollada
 - **Perfil:** nombre, avatar, fecha de nacimiento, género, peso, altura, tipo de diabetes, unidad de glucosa y tus rangos de glucosa.
 - **Mediciones:** nivel de glucosa, fecha y hora, comida, momento respecto a la comida, actividad, síntomas, medicinas tomadas y observaciones.
 - **Medicinas, recomendaciones y recordatorios** que crees.
-- **Preferencias de la aplicación:** idioma, tema de color, modo claro u oscuro y tamaño del texto.
+- **Preferencias de la aplicación:** idioma, tema de color y modo claro u oscuro.
 
 Estos datos se almacenan en una base de datos local y no se envían a ningún servidor.
 
@@ -86,7 +86,7 @@ Mezuri is a glucose tracking app developed by Angel Baeza (Deune Dev). This poli
 - **Profile:** name, avatar, date of birth, gender, weight, height, diabetes type, glucose unit and your glucose ranges.
 - **Measurements:** glucose level, date and time, meal, timing relative to the meal, activity, symptoms, medicines taken and notes.
 - **Medicines, recommendations and reminders** you create.
-- **App preferences:** language, color theme, light or dark mode and text size.
+- **App preferences:** language, color theme and light or dark mode.
 
 This data is kept in a local database and is not sent to any server.
 
